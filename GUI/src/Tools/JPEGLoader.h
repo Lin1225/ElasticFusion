@@ -26,6 +26,7 @@ extern "C"
 
 #include <stdio.h>
 #include <string>
+#include <iostream>
 
 static void jpegFail(j_common_ptr cinfo)
 {
